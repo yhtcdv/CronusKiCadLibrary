@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RJ45-TRANSFO
+D RJ45 with transformer + leds WURTH
+K RJ45
+$ENDCMP
+#
+$CMP RJ45_GbE_Mag_PoE+
+D RJ45 with transformer + leds WURTH
+K RJ45
+$ENDCMP
+#
+#End Doc Library
